@@ -17,3 +17,5 @@ console.log(magic_2());
 console.log(magic_3());
 
 console.log("End of project");
+
+console.log(Math.random());
