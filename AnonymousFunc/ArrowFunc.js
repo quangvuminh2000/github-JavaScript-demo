@@ -18,7 +18,6 @@ console.log(magic_3());
 
 console.log("End of project");
 
-<<<<<<< HEAD
 console.log(Math.random());
 =======
 console.log("Co y de conflic");
