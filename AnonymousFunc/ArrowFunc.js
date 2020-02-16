@@ -19,6 +19,4 @@ console.log(magic_3());
 console.log("End of project");
 
 console.log(Math.random());
-=======
-console.log("Co y de conflic");
->>>>>>> 5e8cbd39e8190c443d0a1c032250457e6d49f17f
+
