@@ -15,3 +15,5 @@ const magic_3 = () => new Date();
 console.log(magic_1());
 console.log(magic_2());
 console.log(magic_3());
+
+console.log("End of project");
