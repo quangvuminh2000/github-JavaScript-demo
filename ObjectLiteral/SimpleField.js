@@ -10,6 +10,6 @@ const createPerson = (name, age, gender) => {
 console.log(createPerson("Vu Minh Quan", 12, "Unknow"));
 
 // Simple Field
-const createCustomer = (name, age, gender, CustomerID) => ( { name, age, gender, CustomerID} );
+const createCustomer = (name, age, gender, CustomerID) => ( { name, age, gender, CustomerID } );
 
 console.log(createCustomer("Vu Minh Quang", 19, "male", "abch12g"));
